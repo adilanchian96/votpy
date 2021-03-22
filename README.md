@@ -1,13 +1,13 @@
-### (V)oice (O)nset (L)atency Python Package
-This package was made to easily compute voice onset latency without any specialty equipment. All that's needed is a computer and a microphone!
+### (V)oice (O)nset (T)ime
+This package was made to easily compute voice onset time without any specialty equipment. All that's needed is a computer and a microphone!
 
 
 ### Getting Started
 `pip install pyaudio`  --->  **Required**
 
-`pip install volpy`
+`pip install votpy`
 
-    import volpy
+    import votpy
     # Create Detector variable
     det = Detector()
     # Make sure microphone is picking up a viable signal
