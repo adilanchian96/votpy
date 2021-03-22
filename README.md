@@ -11,3 +11,4 @@ This package was made to easily compute vocal onset latency without any specialt
     det.record_vol(timout = 5)
     det.to_csv("file.csv")
 
+### Inspired by https://forum.cogsci.nl/index.php?p=/discussion/1772/ and https://stackoverflow.com/questions/18406570/python-record-audio-on-detected-sound
