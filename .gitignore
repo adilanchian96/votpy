@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # PyPi Packaging
-pyproject.toml
+*.toml
 setup.cfg
 src/
