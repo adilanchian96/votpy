@@ -5,6 +5,8 @@ This package was made to easily compute voice onset latency without any specialt
 ### Getting Started
 `pip install pyaudio`  --->  **Required**
 
+`pip install volpy`
+
     import volpy
     # Create Detector variable
     det = Detector()
@@ -17,7 +19,7 @@ This package was made to easily compute voice onset latency without any specialt
 ### Inspired by [sebastiaan](https://forum.cogsci.nl/index.php?p=/discussion/1772/) and [Primusa](https://stackoverflow.com/questions/18406570/python-record-audio-on-detected-sound)
 
 
-###On Windows and can't install pyaudio? Try the below code:
+### On Windows and can't install pyaudio? Try the below code:
 
 
 - `pip install pipwin`
